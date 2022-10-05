@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**petrsoudek/petrsoudek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer 👀
 
-Here are some ideas to get you started:
+###### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏋️‍♂️ `health++`
+- 🍑 If You Know You [Know](https://www.youtube.com/watch?v=xvFZjo5PgG0) 😏
+
+###### BIO
+
+- 🏫 I am a student
+- ⚙️ I use daily: `.js`, `.cs`, `.cshtml`,`.css`
+- <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" width="14" height="18"> Owner of `Raspberry Pi 4B`, `Raspberry Pi 3B+`
+- 💻 Running on  `Windows 10`, `Ubuntu` and `Open SUSE Linux`
