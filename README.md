@@ -10,6 +10,6 @@ I'm a Front-End Developer 👀
 ###### BIO
 
 - 🏫 I am a student
-- ⚙️ I use daily: `.js`, `.cs`, `.cshtml`,`.css`
+- ⚙️ I use daily: `.js`, `.cs`, `.cshtml`,`.css` and sometimes `.py`
 - <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" width="14" height="18"> Owner of `Raspberry Pi 4B`, `Raspberry Pi 3B+`
 - 💻 Running on  `Windows 10`, `Ubuntu` and `Open SUSE Linux`
