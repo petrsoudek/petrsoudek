@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm a Front-End Developer 👀
+I'm a Fullstack junior Developer 👀
 
 ###### NOW
 
